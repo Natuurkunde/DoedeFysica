@@ -1,3 +1,15 @@
+---
+title: Newot
+date: 2024-17-12
+authors:
+  - name: Freek Pols
+    affiliations:
+      - University of Technology, Delft
+
+kernelspec:
+  name: python3
+  display_name: 'Python 3'
+---
 # Newton de eerste
 
 Newton is best cool, maar ligt nog in bed.
@@ -14,7 +26,7 @@ Newton is best cool, maar ligt nog in bed.
 Some pictures of fruit and the ocean!
 :::
 
-:::{code} python
+:::{code-cell} python
 a = 2
 b = 3
 print(a+b)

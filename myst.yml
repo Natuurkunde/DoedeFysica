@@ -4,7 +4,7 @@ project:
   id: 0bd15bab-d765-4433-afd6-5b415d5e74ec
   title: Doe de Fysica
   # description:
-  # keywords: []
+  keywords: [Natuurkunde, Practicum, Didactiek]
   authors: [Freek Pols]
   github: https://github.com/FreekPols/DoedeFysica
   # To autogenerate a Table of Contents, run "myst init --write-toc"
