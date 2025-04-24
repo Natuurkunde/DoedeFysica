@@ -3,13 +3,13 @@
 Dit is een voorbeeld experiment zoals opgenomen zal worden in het boek Doe*de*Fysica. Het betreft metingen aan het toestel van Atwood.
 
 ## Experiment
-### Inleiding
-Toestel van Atwood, klassiek experiment
+
+Het toestel van Atwood is een klassiek experiment waarmee leerlingen op eenvoudige wijze de wetten van Newton kunnen onderzoeken. Door twee gewichten via een katrol met elkaar te verbinden, wordt inzichtelijk hoe krachten en versnellingen samenwerken. 
 
 ### Methode
 
 #### Ontwerp
-In dit experiment, zie figuur {numref}`fig_Atwood_setup` wordt een karretje ($m_1$) versneld doordat er een zwaartekracht werkt op een massa ($m_2$). De versnelling aan het systeem wordt gegeven door:
+In dit experiment, zie {numref}`fig_Atwood_setup` wordt een karretje ($m_1$) versneld doordat er een zwaartekracht werkt op een massa ($m_2$). De versnelling aan het systeem wordt gegeven door:
 
 $$
 \begin{aligned}
@@ -17,6 +17,8 @@ F_{net} &= F_{z,m_2}\\
 (m_1 + m_2) \cdot a &= m_2 \cdot g
 \end{aligned}
 $$
+
+Leerlingen kunnen de tweede wet van Newton onderzoeken door de versnelling ($a$) van het karretje te bepalen als functie van de massa ($m_2$).
 
 ```{figure} Atwood.png
 :width: 70%
@@ -26,13 +28,11 @@ $$
 De opstelling van Atwood: een karretje op een luchtkussenbaan wordt versneld door een massa bevestigd aan het karretje via een draadje dat loopt over een lichtlopend katrol.
 ```
 
-Leerlingen kunnen de tweede wet van Newton onderzoeken door de versnelling ($a$) van het karretje te bepalen als functie van de massa ($m_2$).
-
 #### Benodigdheden
 * Luchtkussenbaan
 * Karretje
 * Verschillende massa's
-* Lichtsluis / stopwatch / pocket voyager[^fn1] \ [^fn1]: Verschillende mogelijkheden om de versnelling te bepalen
+* Lichtsluis / stopwatch / pocket voyager[^fn1] 
 
 #### Uitvoering
 
@@ -42,4 +42,7 @@ Leerlingen kunnen de tweede wet van Newton onderzoeken door de versnelling ($a$)
 ### Conclusie
 
 ## Didactiek
+
+## Voetnoten
+[^fn1]: Verschillende mogelijkheden om de versnelling te bepalen
 
