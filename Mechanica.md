@@ -17,6 +17,7 @@ exports:
     template: plain_latex_book
     output: pdf/Newton.pdf
 ---
+
 # Mechanica
 
 En dan hier een mooie tekst.

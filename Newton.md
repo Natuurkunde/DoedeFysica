@@ -26,7 +26,7 @@ Newton is best cool, maar ligt nog in bed.
 :align: left
 
 (my-figure-fruit)=
-![Here is some fruit 🍏](https://github.com/rowanc1/pics/blob/main/apples-wide.png?raw=true)
+![Here is some fruit 🍏](./Figuren/WP1.png)
 
 ![My vacation pics! 🏝](https://github.com/rowanc1/pics/blob/main/ocean-wide.png?raw=true)
 
