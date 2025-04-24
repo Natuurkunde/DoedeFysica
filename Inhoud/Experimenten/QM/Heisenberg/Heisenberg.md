@@ -26,8 +26,8 @@ De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interfere
 ```
 
 #### Uitvoering
-Verschillende slitbreedtes,
-meet interferentiepatroon 
+Verschillende slitbreedtes ($\Delta x$) ,
+meet breedte van maximale interferentiepatroon ($0^e$ orde)
 etc
 
 ```{figure} Heisenberg schematisch.png
@@ -37,6 +37,8 @@ etc
 
 blabl
 ```
+
+grafiekje van $\Delta p$ als functie van $\frac{1}{\Delta x}$, rico geeft $\frac{h}{4\pi}$.
 
 ### Resultaten
 
