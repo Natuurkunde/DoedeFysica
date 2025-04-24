@@ -7,7 +7,7 @@ authors:
     affiliations:
       - University of Technology, Delft
 license: CC-BY-4.0
-abstract: Hier komt iets met Newton.
+
 kernelspec:
   name: python3
   display_name: 'Python 3'
