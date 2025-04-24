@@ -7,4 +7,4 @@ Dit project beoogt het plezier in actief leren terug te brengen, de opbrengst da
 ```{warning}
 Dit boek is in ontwikkeling. Er zijn slechts twee voorbeelden van experimenten:
 * [Meten aan het toestel van Atwood](./Inhoud/Experimenten/Mechanica/Atwood/Atwood.md)
-* [Heisenberg Onzekerheidsprincipe](./Inhoud/Experimenten/QM/Heisenberg.md)
+* [Heisenberg Onzekerheidsprincipe](./Inhoud/Experimenten/QM/Heisenberg/Heisenberg.md)

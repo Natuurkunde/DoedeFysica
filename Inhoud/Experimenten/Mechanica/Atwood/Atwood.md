@@ -1,9 +1,7 @@
 # Atwood en Newton de tweede
-
 Dit is een voorbeeld experiment zoals opgenomen zal worden in het boek Doe*de*Fysica. Het betreft metingen aan het toestel van Atwood.
 
 ## Experiment
-
 Het toestel van Atwood is een klassiek experiment waarmee leerlingen op eenvoudige wijze de wetten van Newton kunnen onderzoeken. Door twee gewichten via een katrol met elkaar te verbinden, wordt inzichtelijk hoe krachten en versnellingen samenwerken. 
 
 ### Methode
@@ -30,19 +28,32 @@ De opstelling van Atwood: een karretje op een luchtkussenbaan wordt versneld doo
 
 #### Benodigdheden
 * Luchtkussenbaan
-* Karretje
+* Karretje 
 * Verschillende massa's
 * Lichtsluis / stopwatch / pocket voyager[^fn1] 
 
 #### Uitvoering
 
+| $m_2$ (g)| $t$ (s) | $v_{gem}$ (m/s) | $a$ (m/s$^2$) |
+| --- | --- | --- | --- | 
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
 
 ### Resultaten
+
 
 ### Conclusie
 
 ## Didactiek
+### Optie 1: CDC aanpak
+Elke groepje bepaalt nauwkeurig de versnelling bij een enkele massa ($m_2$). De metingen worden gecombineerd door de docent: $a(m_2)$. Gezamenlijk wordt het resultaat besproken, de voorspelde grafiek is op het bord weergegeven m.b.v. [geogebra](https://geogebra.org). De metingen worden door de leerlingen toegevoegd.
 
-## Voetnoten
+### Optie 2: PO
+Elk groepje bepaalt op basis van een éénpuntsmeting (welke afstand kun je het beste gebruiken en waarom?) de versnelling. Ze variëren zelf de massa van $m_2$. Welke massa's gebruik je en waarom?
+
 [^fn1]: Verschillende mogelijkheden om de versnelling te bepalen
 
