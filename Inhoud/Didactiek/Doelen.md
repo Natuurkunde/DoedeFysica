@@ -1,4 +1,4 @@
-# Introductie
+# Doelen practicum
 
 ```{warning}
 Under development

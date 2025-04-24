@@ -39,7 +39,7 @@ project:
         - file: Inhoud/Experimenten/template.md
         - title: Mechanica
           children:
-            - file: Inhoud/Experimenten/Mechanica/Mechanica.md
+            # - file: Inhoud/Experimenten/Mechanica/Mechanica.md
             - file: Inhoud/Experimenten/Mechanica/Atwood/Atwood.md
         - title: QM
           children:

@@ -19,3 +19,8 @@ site:
 ```
 
 
+<div style="text-align: center; font-size: 12px">
+
+Versie 0.0.1
+
+</div>
