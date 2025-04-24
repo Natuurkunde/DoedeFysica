@@ -43,7 +43,7 @@ project:
             - file: Inhoud/Experimenten/Mechanica/Atwood/Atwood.md
         - title: QM
           children:
-            - file: Inhoud/Experimenten/QM/Heisenberg.md
+            - file: Inhoud/Experimenten/QM/Heisenberg/Heisenberg.md
     
     - title: Technisch Ontwerpen
       children:

@@ -1,6 +1,8 @@
 # Heisenberg
 Met een laser en een verstelbare spleet kunnen leerlingen zelf de onzekerheidsrelatie van Heisenberg onderzoeken. Door de spleet smaller te maken, wordt de plaats van het foton nauwkeuriger bekend, terwijl de spreiding in de impuls toeneemt. Dit experiment maakt de abstracte kwantummechanica tastbaar en laat zien hoe meten invloed heeft op wat je kunt weten.
 
+https://quarknet.org/sites/default/files/content/portfolio/file/2025-02/Heisenberg%20Teacher%20Notes_dmr-mgb.pdf
+
 ## Experiment
 ### Methode
 
