@@ -55,9 +55,9 @@ project:
 site:
   template: book-theme
   options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+    favicon: Figuren/favicon.ico
+    logo: Figuren/logo.png
   actions: 
-  - title: report issue
+  - title: Feedback
     url: https://github.com/Natuurkunde/DoedeFysica/Issues
 
