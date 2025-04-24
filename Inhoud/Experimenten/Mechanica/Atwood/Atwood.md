@@ -13,7 +13,7 @@ In dit experiment, zie figuur {numref}`fig_Atwood_setup` wordt een karretje ($m_
 
 $$
 \begin{aligned}
-F_net &= F_{z,m_2}\
+F_{net} &= F_{z,m_2}\\
 (m_1 + m_2) \cdot a &= m_2 \cdot g
 \end{aligned}
 $$
