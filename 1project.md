@@ -1,4 +1,4 @@
-# DoedeFysica
+# Welkom!
 
 In het VO is er veel aandacht voor ontwikkeling van conceptuele kennis. Die kennis wordt met name ontwikkeld door middel van klassikale instructie: de docent legt de stof uit waarna de leerlingen sommen oefenen. Door een (over)vol programma, maar ook onbekendheid met de didactiek en gering aantal goede voorbeelden, zijn practica, ontwerpopdrachten en computer gebruik (waaronder data-analyse en simulaties) geminimaliseerd. Dit terwijl juist deze activiteiten als leuk en motiverend ervaren worden en er op bètavervolgopleidingen juist veel aandacht voor deze onderwijselementen is. In het MBO/HBO voeren o.a. ontwerpen en praktische opdrachten de boventoon. In het WO is er veel aandacht voor (wetenschappelijk) experimenten, daarbij gebruik makend van de diverse mogelijkheden van de computer. 
 

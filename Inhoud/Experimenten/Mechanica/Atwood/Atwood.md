@@ -14,10 +14,12 @@ Dit is een voorbeeld experiment zoals opgenomen zal worden in het boek Doe*de*Fy
 ## Experiment
 Het toestel van Atwood is een klassiek experiment waarmee leerlingen op eenvoudige wijze de wetten van Newton kunnen onderzoeken. Door twee gewichten via een katrol met elkaar te verbinden, wordt inzichtelijk hoe krachten en versnellingen samenwerken. 
 
+Het *leerdoel* is dus een beter begrip van de tweede wet van Newton. Het *practicumdoel* is het zo precies mogelijk bepalen van de massa van het wagentje.
+
 ### Methode
 
 #### Ontwerp
-In dit experiment, zie {numref}`fig_Atwood_setup` wordt een karretje ($m_1$) versneld doordat er een zwaartekracht werkt op een massa ($m_2$). De versnelling aan het systeem wordt gegeven door:
+In dit experiment, zie {numref}`fig_Atwood_setup` wordt een karretje met onbekende massa $m_1$ versneld doordat er een zwaartekracht werkt op een massa ($m_2$). De versnelling aan het systeem wordt gegeven door:
 
 $$
 \begin{aligned}
@@ -26,7 +28,7 @@ F_{net} &= F_{z,m_2}\\
 \end{aligned}
 $$
 
-Leerlingen kunnen de tweede wet van Newton onderzoeken door de versnelling ($a$) van het karretje te bepalen als functie van de massa ($m_2$).
+Door verschillende massa's $m_2$ te gebruiken en de totale versnelling te bepalen kunnen ze de op basis van de tweede wet van Newton de onbekende massa van het karretje bepalen. 
 
 ```{figure} Atwood.png
 :width: 70%
