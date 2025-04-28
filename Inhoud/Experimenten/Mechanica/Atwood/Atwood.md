@@ -1,3 +1,8 @@
+---
+downloads:
+    - file: Atwood SGO.docx
+    - title: SGO
+---
 # Atwood en Newton de tweede
 Dit is een voorbeeld experiment zoals opgenomen zal worden in het boek Doe*de*Fysica. Het betreft metingen aan het toestel van Atwood.
 
