@@ -51,6 +51,19 @@ grafiekje van $\Delta p$ als functie van $\frac{1}{\Delta x}$, rico geeft $\frac
 
 Een close up van het interferentiepatroon met verlichte en donkere stukken.
 ```
+
+$D = 150.0 \pm 0.5$ cm
+$\lambda = 635$ nm
+
+|$\Delta x$ ($\mu$m) | $S$ (mm) |
+| --- | --- |
+| 5 | 68.90 |
+| 8 | 46.40 |
+| 11 | 22.35 |
+| 14 | 18.30 |
+| 17 | 13.90 |
+| 20 | 11.40 |
+
 ### Conclusie
 
 ## Didactiek

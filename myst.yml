@@ -61,4 +61,5 @@ site:
   actions: 
   - title: Feedback
     url: https://github.com/Natuurkunde/DoedeFysica/Issues
-
+  - title: EN
+    url: https://freekpols.github.io/ShowthePhysics/intro.html #https://github.com/Natuurkunde/DoingPhysics
