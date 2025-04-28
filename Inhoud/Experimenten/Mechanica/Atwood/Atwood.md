@@ -4,27 +4,9 @@ downloads:
     - title: SGO
     - file: Atwood NB.ipynb
     - title: Notebook
+    - file: Atwood WB.docx
+    - title: Werkblad
 ---
-
-<div style="text-align: right;">
-  <button onclick="switchLanguage()">EN</button>
-</div>
-
-<script>
-function switchLanguage() {
-  var url = window.location.href;
-  if (url.includes('/nl/')) {
-    var newUrl = url.replace('/nl/', '/en/');
-    window.location.href = newUrl;
-  } else if (url.includes('/en/')) {
-    var newUrl = url.replace('/en/', '/nl/');
-    window.location.href = newUrl;
-  } else {
-    // fallback: ga naar Engelse homepage
-    window.location.href = '/en/';
-  }
-}
-</script>
 
 # Atwood en Newton de tweede
 Dit is een voorbeeld experiment zoals opgenomen zal worden in het boek Doe*de*Fysica. Het betreft metingen aan het toestel van Atwood.
