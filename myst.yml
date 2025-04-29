@@ -40,6 +40,7 @@ project:
     - title: Experimenten
       children:
         - file: Inhoud/Experimenten/template.md
+        - file: Inhoud/Experimenten/opzet.md
         - title: Mechanica
           children:
             # - file: Inhoud/Experimenten/Mechanica/Mechanica.md

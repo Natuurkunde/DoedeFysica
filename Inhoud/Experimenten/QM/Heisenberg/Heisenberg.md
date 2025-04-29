@@ -27,6 +27,30 @@ $$\Delta p = \frac{S h}{2D\lambda} $$
 De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
 ```
 
+````{figure}
+:label: subFigure
+:align: left
+
+```{figure} Heisenberg 1.jpg
+:width: 70%
+:name: fig_QM_setup1 
+:alt: De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
+
+De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
+```
+
+```{figure} Heisenberg 1.jpg
+:width: 70%
+:name: fig_QM_setup2 
+:alt: De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
+
+De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
+```
+
+
+We saw some great things on our trips this year to Banff, Canada 🇨🇦 and San Francisco, USA 🌉.
+````
+
 #### Uitvoering
 Verschillende slitbreedtes ($\Delta x$) ,
 meet breedte van maximale interferentiepatroon ($0^e$ orde)

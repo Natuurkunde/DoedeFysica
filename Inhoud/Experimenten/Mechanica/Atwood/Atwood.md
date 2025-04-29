@@ -59,7 +59,8 @@ $$
 s = 1/2 \cdot a \cdot t^2
 $$
 
-rewritten:
+herschreven voor $a$:
+
 $$
 a = \frac{2 \cdot s}{t^2}
 $$
@@ -86,8 +87,9 @@ Hier met de speedgate
 Hier met de stopwatch
 :::
 :::{tab-item} pocket voyager
-
+en de pocket
 ::::
+
 | $m_2$ (g)| $t$ (s) | $v_{gem}$ (m/s) | $a$ (m/s$^2$) |
 | --- | --- | --- | --- | 
 | | | | |
