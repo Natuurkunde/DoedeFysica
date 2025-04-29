@@ -33,6 +33,9 @@ project:
     - title: Didactiek
       children:
         - file: Inhoud/Didactiek/Introductie.md
+        - file: Inhoud/Didactiek/Doelen.md
+        #- file: Inhoud/Didactiek/Werkbladen.md
+        - file: Inhoud/Didactiek/CDC.md
 
     - title: Experimenten
       children:
