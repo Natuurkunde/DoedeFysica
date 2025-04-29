@@ -38,6 +38,37 @@ Door verschillende massa's $m_2$ te gebruiken en de totale versnelling te bepale
 De opstelling van Atwood: een karretje op een luchtkussenbaan wordt versneld door een massa bevestigd aan het karretje via een draadje dat loopt over een lichtlopend katrol.
 ```
 
+Die versnelling kan op verschillende manieren bepaald worden:
+
+::::{tab-set}
+:::{tab-item} speedgate
+Op afstand $s$ van de start staat een speedgate welke de momentane snelheid $v_e$ weergeeft. Uitgaande van een eenparig versnelde beweging geldt:
+
+$$
+\begin{aligned}
+a &= \frac{\Delta v}{\Delta t}
+  &= \frac{v_e}{s/v_e/2}
+  &= \frac{v_e^2}{2s}
+\end{aligned}
+$$
+:::
+:::{tab-item} stopwatch
+De tijd $t$ die nodig is voor het karretje om een afstand $s$ af te leggen startend vanuit stilstand wordt gegeven door: 
+
+$$
+s = 1/2 \cdot a \cdot t^2
+$$
+
+rewritten:
+$$
+a = \frac{2 \cdot s}{t^2}
+$$
+
+:::
+:::{tab-item} versnellingsmeter
+De versnelling $a$ wordt direct bepaald uit de gemiddelde versnelling gegeven door de sensor.
+::::
+
 #### Benodigdheden
 * Luchtkussenbaan
 * Karretje 
@@ -46,6 +77,17 @@ De opstelling van Atwood: een karretje op een luchtkussenbaan wordt versneld doo
 
 #### Uitvoering
 
+::::{tab-set}
+:::{tab-item} speedgate
+Hier met de speedgate
+
+:::
+:::{tab-item} stopwatch
+Hier met de stopwatch
+:::
+:::{tab-item} pocket voyager
+
+::::
 | $m_2$ (g)| $t$ (s) | $v_{gem}$ (m/s) | $a$ (m/s$^2$) |
 | --- | --- | --- | --- | 
 | | | | |
@@ -56,7 +98,17 @@ De opstelling van Atwood: een karretje op een luchtkussenbaan wordt versneld doo
 
 
 ### Resultaten
+::::{tab-set}
+:::{tab-item} speedgate
+Hier met de speedgate
 
+:::
+:::{tab-item} stopwatch
+Hier met de stopwatch
+:::
+:::{tab-item} pocket voyager
+
+::::
 
 ### Conclusie
 
