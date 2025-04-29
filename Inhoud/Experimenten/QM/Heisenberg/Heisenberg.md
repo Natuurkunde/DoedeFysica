@@ -19,36 +19,27 @@ $$\Delta p = \frac{S h}{2D\lambda} $$
 * Schuifmaat (2x) of micrometer en schuifmaat
 * Statiefmateriaal
 
-```{figure} Heisenberg 1.jpg
-:width: 70%
-:name: fig_QM_setup 
-:alt: De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
-
-De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
-```
-
 ````{figure}
 :label: subFigure
 :align: left
 
 ```{figure} Heisenberg 1.jpg
 :width: 70%
-:name: fig_QM_setup1 
+:name: fig_QM_setup
 :alt: De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
 
 De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
 ```
 
-```{figure} Heisenberg 1.jpg
+```{figure} Heisenberg 2.jpg
 :width: 70%
-:name: fig_QM_setup2 
-:alt: De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
+:name: fig_QM_intpat
+:alt: Een close up van het interferentiepatroon met verlichte en donkere stukken.
 
-De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
+Een close up van het interferentiepatroon met verlichte en donkere stukken.
 ```
 
-
-We saw some great things on our trips this year to Banff, Canada 🇨🇦 and San Francisco, USA 🌉.
+De opstelling en een close up van het interferentiepatroon
 ````
 
 #### Uitvoering
@@ -59,22 +50,16 @@ etc
 ```{figure} Heisenberg schematisch.png
 :width: 70%
 :name: fig_QM_schem 
-:alt: blabla
+:alt: een schematische weergave van de opstelling en het interferentiepatroon met de grootheden gedefinieerd in de tekening.
 
-blabl
+Een schematische weergave met bijbehorende grootheden.
 ```
 
 grafiekje van $\Delta p$ als functie van $\frac{1}{\Delta x}$, rico geeft $\frac{h}{4\pi}$.
 
 ### Resultaten
 
-```{figure} Heisenberg 2.jpg
-:width: 70%
-:name: fig_QM_intpat
-:alt: Een close up van het interferentiepatroon met verlichte en donkere stukken.
 
-Een close up van het interferentiepatroon met verlichte en donkere stukken.
-```
 
 $D = 150.0 \pm 0.5$ cm
 $\lambda = 635$ nm
