@@ -79,10 +79,27 @@ De versnelling $a$ wordt direct bepaald uit de gemiddelde versnelling gegeven do
 #### Uitvoering
 
 ::::{tab-set}
-:::{tab-item} speedgate
-Hier met de speedgate
 
+:::{tab-item} speedgate
+| $m_2$ (g)| $v_e$ (m/s) | $a$ (m/s$^2$) |
+| --- | --- | --- |
+| 3| | 0.13 |
+| 6 | | 0.27 |
+| 9 | | 0.42 |
+| 12 | | 0.54 |
+| 15 | | 0.66 |
+| 18 | | 0.78 |
+| 21 | | 0.90 |
+| 24 | | 1.01 |
+| 27 | | 1.12 |
+| 30 | | 1.24 |
+
+![](atwood_fit.png)
+
+$m_2$ uit de fit is: 0.2078 ± 0.0006 kg.  
+$m_2$ gewogen is .1993176±0.00005 kg.  
 :::
+
 :::{tab-item} stopwatch
 Hier met de stopwatch
 :::
@@ -90,13 +107,7 @@ Hier met de stopwatch
 en de pocket
 ::::
 
-| $m_2$ (g)| $t$ (s) | $v_{gem}$ (m/s) | $a$ (m/s$^2$) |
-| --- | --- | --- | --- | 
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+
 
 
 ### Resultaten
