@@ -4,7 +4,7 @@ Er is sprake van drie werkpakketten.
 
 ## Werkpakket 1
 ```{admonition} Doel
-Het ontwikkelen en publiceren van een online open-access boek met daarin door docenten geteste practica en technisch ontwerp opdrachten, en hoofdstukken rond de bijbehorende didactiek.
+Het ontwikkelen en publiceren van (tenminste) één online open-access boek `DoedeFysica` met daarin door docenten geteste practica en technisch ontwerp opdrachten, en hoofdstukken rond de bijbehorende didactiek.
 ```
 
 Een schematische weergave van het proces in WP1 is te zien in {numref}`fig_wp1`. Voor het ontwikkelen en publiceren van een online open-access boek met daarin door docenten geteste practica en technisch ontwerp opdrachten, en hoofdstukken rond de bijbehorende didactiek wordt gekozen voor de werkwijze zoals gehanteerd bij het ontwikkelen van de drie gedrukte boeken ShowdeFysica (boeken met demonstratieproeven en bijbehorende didactiek). D.w.z. dat een team van experts (vakdidactici, lerarenopleiders en ervaren docenten) eigen materialen combineren met materialen aangeleverd vanuit hun netwerk. Deze materialen worden gereviseerd en in de centrale bijeenkomsten (4 per jaar) besproken. Tijdens die bijeenkomsten worden ook nieuwe korte termijn doelen (bijv. af te leveren practicumbeschrijvingen voor de volgende meeting) afgesproken.
