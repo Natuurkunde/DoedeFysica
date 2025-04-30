@@ -2,7 +2,7 @@
 
 Visual Studio Code (VSC) is een populaire code-editor ontwikkeld door Microsoft. Het biedt ondersteuning voor meerdere programmeertalen en heeft uitgebreide functionaliteiten zoals debugging, versiebeheer (werkt goed samen met bijv. [github](./Github.md)) en extensies.
 
-``` {figure} ../figures/VSC_ps.PNG
+``` {figure} Figuren/VSC_ps.PNG
 ---
 name: VSV_ps
 width: 70%
@@ -27,7 +27,7 @@ Een aantal extensies zijn handig / nodig voor programmeren in Python en/of het m
 ````{exercise}
 Installeer de extensie Jupyter, MyST-Markdown, Python & Code Spell checker, zie {numref}`Figuur {number} <fig_extensions>` waar deze te vinden zijn.
 
-``` {figure} ../figures/extensions.PNG
+``` {figure} Figuren/extensions.PNG
 ---
 name: fig_extensions
 width: 70%

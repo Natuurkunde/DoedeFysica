@@ -47,7 +47,6 @@ project:
 
     - title: Experimenten
       children:
-        - file: Inhoud/Experimenten/template.md
         - file: Inhoud/Experimenten/opzet.md
         - title: Mechanica
           children:
@@ -67,6 +66,7 @@ project:
         - file: Inhoud/Ontwikkelaars/VSC.md
         - file: Inhoud/Ontwikkelaars/cheatsheet.md
         - file: Inhoud/Ontwikkelaars/test.md
+        - file: Inhoud/Ontwikkelaars/template.md
         
 
 
