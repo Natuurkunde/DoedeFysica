@@ -64,6 +64,7 @@ site:
     favicon: Figuren/favicon.ico
     logo: Figuren/logo.png
     hide_authors: true
+    numbering: true
 
 
   actions: 
