@@ -1,15 +1,9 @@
 # Introductie
 
-```{warning}
-Under development
-```
-
-
-Volgende is gepubliceerd bij de NVOX als: Practicum, wat hebben we (ervan) geleerd?
-Peter Dekkers, Freek Pols / TU Delft; Ed van den Berg
+Dit hoofdstuk is gepubliceerd bij de NVOX als: Practicum, wat hebben we (ervan) geleerd? {cite:t}`RN1237`
 
 ## Abstract
-Dertig jaar geleden verscheen in NVOX een artikel van Jaap Buning en Ed van den Berg: ‘Practicum, leren ze er wat?’ De kernboodschap: practica zouden veel leerzamer zijn als ze efficiënt op leren gericht waren. Dat artikel is nog altijd (terecht) verplichte kost in de meeste lerarenopleidingen. Maar is hun boodschap nog actueel? Door de uitspraken van een leerlinge te analyseren en concrete, simpele en laagdrempelige manieren toe te voegen, bespreken we opnieuw hoe je practica leerzamer kunt maken.
+Dertig jaar geleden verscheen in NVOX een artikel van Jaap Buning en Ed van den Berg: ‘Practicum, leren ze er wat?’ {cite:t}`RN1201` De kernboodschap: practica zouden veel leerzamer zijn als ze efficiënt op leren gericht waren. Dat artikel is nog altijd (terecht) verplichte kost in de meeste lerarenopleidingen. Maar is hun boodschap nog actueel? Door de uitspraken van een leerlinge te analyseren en concrete, simpele en laagdrempelige manieren toe te voegen, bespreken we opnieuw hoe je practica leerzamer kunt maken. Dit artikel biedt een mooi overzicht van alle volgende didactische hoofdstukken over practica. 
 
 ## Inleiding
 Ze zei: *Je leert meestal niet zoveel van practicum omdat de doelen niet duidelijk zijn, en omdat je voortdurend bezig bent met apparatuur te snappen, waardoor je verder nergens aan toe komt. Vaak zijn er van die werkbladen bij die moeten worden ingevuld, daarbij schrijven leerlingen massaal van elkaar over, of ze schrijven niks op, of ze schrijven op wat er gebeurt, maar snappen niet waarom het gebeurt. Bijvoorbeeld: 'de kleur verandert van geel naar blauw'. Het kan er ook aan liggen dat de vragen op zo'n blad niet goed zijn. Je zou moeten vragen waarom iets gebeurt, maar dat is dan meestal weer te moeilijk.*
