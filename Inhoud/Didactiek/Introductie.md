@@ -82,7 +82,14 @@ Practicumontwerp vraagt aandacht voor zowel uit te voeren taken als te bieden be
 Een concept cartoon kan leerlingen ondersteunen bij het vormen en formuleren van hun gedachten rond hun metingen: Gaan zij door met meten aan een LED (die pas geleidt en licht geeft bij hogere spanningen)?
 ```
 
-Als docent kun je verder de leerlingen ondersteunen door actief vragen te stellen, zoals ‘wat doe je?’, ‘waarom op die manier?’, ‘kan dat ook anders?’, gericht op leren onderzoeken, en ‘wat zie je?’, ‘wat betekent dat?’, ‘wat leer je daarvan?’ gericht op begripsontwikkeling. Deze vragen laten leerlingen, in essentie, heen-en-weer-denken tussen de wereld van denkbeelden en ideeën (de wereld van de (bekende) natuurwetenschappelijke wetten en theorieën) en de wereld van dingen en observaties (van den Berg, 2012). 
+Als docent kun je verder de leerlingen ondersteunen door actief vragen te stellen, zoals 
+- ‘wat doe je?’, 
+- ‘waarom op die manier?’, 
+- ‘kan dat ook anders?’ 
+gericht op leren onderzoeken, en 
+- ‘wat zie je?’, ‘wat betekent dat?’, 
+- ‘wat leer je daarvan?’ 
+gericht op begripsontwikkeling. Deze vragen laten leerlingen, in essentie, heen-en-weer-denken tussen de wereld van denkbeelden en ideeën (de wereld van de (bekende) natuurwetenschappelijke wetten en theorieën) en de wereld van dingen en observaties (van den Berg, 2012). 
 
 ##	Conclusie
 *Je zou moeten vragen waarom iets gebeurt, maar dat is dan meestal weer te moeilijk.*  
