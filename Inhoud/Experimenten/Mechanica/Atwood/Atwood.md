@@ -1,8 +1,9 @@
 ---
 numbering:
   headings:
-    enabled: true 
     title: true
+    enabled: true 
+    
 
 
 downloads:
