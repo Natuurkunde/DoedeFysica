@@ -1,9 +1,9 @@
 # Introductie
 
-Dit hoofdstuk is gepubliceerd bij de NVOX als: Practicum, wat hebben we (ervan) geleerd? {cite:t}`RN1237`
+Dit hoofdstuk is gepubliceerd bij de NVOX als: Practicum, wat hebben we (ervan) geleerd? {cite:p}`RN1237`
 
 ## Abstract
-Dertig jaar geleden verscheen in NVOX een artikel van Jaap Buning en Ed van den Berg: ‘Practicum, leren ze er wat?’ {cite:t}`RN1201` De kernboodschap: practica zouden veel leerzamer zijn als ze efficiënt op leren gericht waren. Dat artikel is nog altijd (terecht) verplichte kost in de meeste lerarenopleidingen. Maar is hun boodschap nog actueel? Door de uitspraken van een leerlinge te analyseren en concrete, simpele en laagdrempelige manieren toe te voegen, bespreken we opnieuw hoe je practica leerzamer kunt maken. Dit artikel biedt een mooi overzicht van alle volgende didactische hoofdstukken over practica. 
+Dertig jaar geleden verscheen in NVOX een artikel van Jaap Buning en Ed van den Berg {cite:p}`RN1201`: ‘Practicum, leren ze er wat?’ De kernboodschap: practica zouden veel leerzamer zijn als ze efficiënt op leren gericht waren. Dat artikel is nog altijd (terecht) verplichte kost in de meeste lerarenopleidingen. Maar is hun boodschap nog actueel? Door de uitspraken van een leerlinge te analyseren en concrete, simpele en laagdrempelige manieren toe te voegen, bespreken we opnieuw hoe je practica leerzamer kunt maken. Dit artikel biedt een mooi overzicht van alle volgende didactische hoofdstukken over practica. 
 
 ## Inleiding
 Ze zei: *Je leert meestal niet zoveel van practicum omdat de doelen niet duidelijk zijn, en omdat je voortdurend bezig bent met apparatuur te snappen, waardoor je verder nergens aan toe komt. Vaak zijn er van die werkbladen bij die moeten worden ingevuld, daarbij schrijven leerlingen massaal van elkaar over, of ze schrijven niks op, of ze schrijven op wat er gebeurt, maar snappen niet waarom het gebeurt. Bijvoorbeeld: 'de kleur verandert van geel naar blauw'. Het kan er ook aan liggen dat de vragen op zo'n blad niet goed zijn. Je zou moeten vragen waarom iets gebeurt, maar dat is dan meestal weer te moeilijk.*
@@ -21,9 +21,9 @@ De hoofddoelen van practica in het oorspronkelijke artikel luidden, samengevat:
 
 Latere onderzoeken bevestigen deze doelen keer op keer. Echter, nog te vaak worden die doelen door docenten niet doelbewust gekozen of helder onderscheiden, worden ze aan de leerlingen ook niet duidelijk gemaakt, en kunnen ze op basis van alleen de opgegeven taken ook niet bereikt worden. Voor zulke practica geldt dat leerlingen er de genoemde doelen niet beter mee bereiken dan met andere werkwijzen. Er is een goed doordachte aanpak nodig wil het practicum effectief zijn. De geciteerde leerling-uitspraken wijzen daar ook op. 
 
-Buning en van den Berg lieten al zien dat bij ieder van de eerste drie doelen een eigen type practicum hoort (begripspractica, onderzoekspractica, instrumentpractica), terwijl de resterende twee altijd aandacht verdienen. In later werk, bijvoorbeeld Abrahams & Millar (2008), wordt verder benadrukt dat onderscheid tussen die typen practica belangrijk is en dat er niet teveel doelen tegelijk nagestreefd moeten worden. 
+Buning en van den Berg lieten al zien dat bij ieder van de eerste drie doelen een eigen type practicum hoort (begripspractica, onderzoekspractica, instrumentpractica), terwijl de resterende twee altijd aandacht verdienen. In later werk, bijvoorbeeld {cite:t}`RN64`, wordt verder benadrukt dat onderscheid tussen die typen practica belangrijk is en dat er niet teveel doelen tegelijk nagestreefd moeten worden. 
 
-Naast het type practicum is ook de openheid daarvan een belangrijke ontwerpkeuze (zie bijvoorbeeld Banchi & Bell, 2008). Om een specifiek doel (vooral 1 & 3) te bereiken wordt veelal een ‘gesloten’ practicum gekozen: leerlingen volgen (gedachteloos) een recept, met als voordeel dat ze ongeveer in hetzelfde tempo met relatief weinig hulp, op controleerbare wijze het practicum volgen met gewenste meetresultaten. Leerdoel 2 vraagt echter dat ze zelf keuzes maken (en verantwoorden), maar in een volledig ‘open’ practicum verdwalen leerlingen met weinig onderzoekservaring. Ze lopen vast, weten niet wat ze moeten doen en raken gedesillusioneerd. Een geleidelijke opbouw is dan ook noodzakelijk (zie verderop). 
+Naast het type practicum is ook de openheid daarvan een belangrijke ontwerpkeuze (zie bijvoorbeeld {cite:t}`RN531`). Om een specifiek doel (vooral 1 & 3) te bereiken wordt veelal een ‘gesloten’ practicum gekozen: leerlingen volgen (gedachteloos) een recept, met als voordeel dat ze ongeveer in hetzelfde tempo met relatief weinig hulp, op controleerbare wijze het practicum volgen met gewenste meetresultaten. Leerdoel 2 vraagt echter dat ze zelf keuzes maken (en verantwoorden), maar in een volledig ‘open’ practicum verdwalen leerlingen met weinig onderzoekservaring. Ze lopen vast, weten niet wat ze moeten doen en raken gedesillusioneerd. Een geleidelijke opbouw is dan ook noodzakelijk (zie verderop). 
 
 ## Apparatuurpracticum
 *Omdat je voortdurend bezig bent met apparatuur te snappen, kom je verder nergens aan toe*  
@@ -31,10 +31,11 @@ Leerdoel 3 omvat wat leerlingen moeten leren om de opstelling aan de praat te kr
 
 ## Werkbladen
 *Vaak zijn er van die werkbladen bij die moeten worden ingevuld*  
-Werkbladen zijn een onmisbaar hulpmiddel om leerlingen (min of meer) zelfstandig te laten werken. Inhoud en vorm van het werkblad moeten dan wel zorgvuldig bij het vooraf gekozen practicumdoel passen. Als alternatief ontwikkelde Pols (2019) de Scientific Graphic Organiser (SGO), zie figuur 1. Op de voorkant staan de onderzoeksvraag, theorie, specificatie van grootheden en materialen, de opstelling en de geplande procedure, op de achterkant de observaties, grafieken, analyse en interpretatie, discussie en conclusie(s). Net als een werkblad helpt de SGO bij het voorbereiden, uitvoeren en verslagleggen van het practicum. Je kunt met de SGO gemakkelijk vorm en inhoud van een practicum geschikt maken voor ontwikkeling van een gekozen leerdoel en gesloten practica gedeeltelijk open maken, zie het kader. Het vaste format van de SGO geeft leerling en docent direct overzicht over de voortgang. Daarnaast levert de SGO tijd op door in de klas ‘fast feedback’ (vd Berg & Westbroek, 2014; Schalk & vd Berg, 2019) te ondersteunen, en het nakijkwerk achteraf te verlichten. 
+Werkbladen zijn een onmisbaar hulpmiddel om leerlingen (min of meer) zelfstandig te laten werken. Inhoud en vorm van het werkblad moeten dan wel zorgvuldig bij het vooraf gekozen practicumdoel passen. Als alternatief ontwikkelde {cite:t}`RN795` de Scientific Graphic Organiser (SGO), zie {numref}`fig_prac_did_1`. Op de voorkant staan de onderzoeksvraag, theorie, specificatie van grootheden en materialen, de opstelling en de geplande procedure, op de achterkant de observaties, grafieken, analyse en interpretatie, discussie en conclusie(s). Net als een werkblad helpt de SGO bij het voorbereiden, uitvoeren en verslagleggen van het practicum. Je kunt met de SGO gemakkelijk vorm en inhoud van een practicum geschikt maken voor ontwikkeling van een gekozen leerdoel en gesloten practica gedeeltelijk open maken, zie het kader. Het vaste format van de SGO geeft leerling en docent direct overzicht over de voortgang. Daarnaast levert de SGO tijd op door in de klas ‘fast feedback’ (vd Berg & Westbroek, 2014; Schalk & vd Berg, 2019) te ondersteunen, en het nakijkwerk achteraf te verlichten. 
 
 ```{figure} Figuren/practicum_figuur1.jpg
 :width: 80%
+:name: fig_prac_did_1
 
 Een ingevulde SGO voor een natuurkunde practicum waarin leerlingen zelf moeten nadenken over de procedure. Let op het verschil tussen h en H.
 ```
@@ -50,6 +51,7 @@ De uitspraak bevat een typische leerlingconclusie: leerlingen herhalen ‘slecht
 
 ```{figure} Figuren/practicum_figuur2.jpg
 :width: 80% 
+:name: fig_prac_did_2
 
 De in 1994 gebruikte cartoon is nog steeds relevant: Leerlingen zijn wel eens bereid resultaten te veranderen zodat deze passen bij hun verwachtingen
 ```
@@ -74,6 +76,7 @@ Practicumontwerp vraagt aandacht voor zowel uit te voeren taken als te bieden be
 
 ```{figure} Figuren/practicum_figuur3.jpg
 :width: 80%
+:name: fig_prac_did_3
 
 Een concept cartoon kan leerlingen ondersteunen bij het vormen en formuleren van hun gedachten rond hun metingen: Gaan zij door met meten aan een LED (die pas geleidt en licht geeft bij hogere spanningen)?
 ```
