@@ -1,7 +1,3 @@
 # Technieken
 
-## coördinaattransformatie
-
-## fitten
-
-## onzekerheden doorrekenen
+Iets over software, wiskunde etc.

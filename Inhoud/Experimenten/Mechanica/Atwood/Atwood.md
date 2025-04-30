@@ -4,8 +4,6 @@ numbering:
     title: true
     enabled: true 
     
-
-
 downloads:
     - file: Atwood SGO.docx
     - title: SGO
@@ -82,29 +80,14 @@ De versnelling $a$ wordt direct bepaald uit de gemiddelde versnelling gegeven do
 * Karretje 
 * Verschillende massa's
 * Lichtsluis / stopwatch / pocket voyager[^fn1] 
+* Launcher*
 
 #### Uitvoering
 
 ::::{tab-set}
 
 :::{tab-item} speedgate
-| $m_2$ (g)| $v_e$ (m/s) | $a$ (m/s$^2$) |
-| --- | --- | --- |
-| 3| | 0.13 |
-| 6 | | 0.27 |
-| 9 | | 0.42 |
-| 12 | | 0.54 |
-| 15 | | 0.66 |
-| 18 | | 0.78 |
-| 21 | | 0.90 |
-| 24 | | 1.01 |
-| 27 | | 1.12 |
-| 30 | | 1.24 |
 
-![](atwood_fit.png)
-
-$m_2$ uit de fit is: 0.2078 ± 0.0006 kg.  
-$m_2$ gewogen is .1993176±0.00005 kg.  
 :::
 
 :::{tab-item} stopwatch
@@ -120,8 +103,23 @@ en de pocket
 ### Resultaten
 ::::{tab-set}
 :::{tab-item} speedgate
-Hier met de speedgate
+| $m_2$ (g)| $v_e$ (m/s) | $a$ (m/s$^2$) |
+| --- | --- | --- |
+| 3| | 0.13 |
+| 6 | | 0.27 |
+| 9 | | 0.42 |
+| 12 | 0.978 | 0.54 |
+| 15 | 1.109 | 0.66 |
+| 18 | 1.205 | 0.78 |
+| 21 | 1.284 | 0.90 |
+| 24 | 1.360 | 1.01 |
+| 27 | 1.407 | 1.12 |
+| 30 | 1.479 s| 1.24 |
 
+![](atwood_fit.png)
+
+$m_2$ uit de fit is: 0.2078 ± 0.0006 kg.  
+$m_2$ gewogen is .1993176±0.00005 kg.  
 :::
 :::{tab-item} stopwatch
 Hier met de stopwatch
