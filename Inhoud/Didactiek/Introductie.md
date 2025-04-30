@@ -39,7 +39,7 @@ Leerdoel 3 omvat wat leerlingen moeten leren om de opstelling aan de praat te kr
 *Vaak zijn er van die werkbladen bij die moeten worden ingevuld*  
 Werkbladen zijn een onmisbaar hulpmiddel om leerlingen (min of meer) zelfstandig te laten werken. Inhoud en vorm van het werkblad moeten dan wel zorgvuldig bij het vooraf gekozen practicumdoel passen. Als alternatief ontwikkelde Pols (2019) de Scientific Graphic Organiser (SGO), zie figuur 1. Op de voorkant staan de onderzoeksvraag, theorie, specificatie van grootheden en materialen, de opstelling en de geplande procedure, op de achterkant de observaties, grafieken, analyse en interpretatie, discussie en conclusie(s). Net als een werkblad helpt de SGO bij het voorbereiden, uitvoeren en verslagleggen van het practicum. Je kunt met de SGO gemakkelijk vorm en inhoud van een practicum geschikt maken voor ontwikkeling van een gekozen leerdoel en gesloten practica gedeeltelijk open maken, zie het kader. Het vaste format van de SGO geeft leerling en docent direct overzicht over de voortgang. Daarnaast levert de SGO tijd op door in de klas ‘fast feedback’ (vd Berg & Westbroek, 2014; Schalk & vd Berg, 2019) te ondersteunen, en het nakijkwerk achteraf te verlichten. 
 
-```{figures} Figuren/practicum_figuur1.jpg
+```{figure} Figuren/practicum_figuur1.jpg
 :width: 80%
 
 Een ingevulde SGO voor een natuurkunde practicum waarin leerlingen zelf moeten nadenken over de procedure. Let op het verschil tussen h en H.
@@ -54,7 +54,7 @@ Werkbladen beschrijven vaak een kookboekpracticum waarin bijvoorbeeld de (bekend
 De uitspraak bevat een typische leerlingconclusie: leerlingen herhalen ‘slechts’ de resultaten zonder te zoeken naar een hoger abstractieniveau (zie o.a. Pols, Dekkers & de Vries (2021). Niet heel vreemd, vaak weten ze nog niet dat ze de meest verstrekkende, informatieve conclusie moeten trekken die mogelijk is op basis van de verzamelde data. In onderzoekspractica zal het wetenschappelijk doel van onderzoeken centraal moeten staan, naast het ontwikkelen van kennis en kunde om een betrouwbaar en valide onderzoek op te zetten en uit te voeren. Het  is van belang dat leerlingen leren door  zelfdoen: eigen keuzes maken, deze evalueren en te verbeteren. Die te ontwikkelen vaardigheden zijn door van den Berg en Buning samengevat en later verder uitgewerkt in bijvoorbeeld Pols, Dekkers & de Vries (2022), zie NVON-site bij dit artikel.
 
 
-```{figures}  Figuren/practicum_figuur2.jpg
+```{figure} Figuren/practicum_figuur2.jpg
 :width: 80% 
 
 De in 1994 gebruikte cartoon is nog steeds relevant: Leerlingen zijn wel eens bereid resultaten te veranderen zodat deze passen bij hun verwachtingen
@@ -78,7 +78,7 @@ Al dan niet in combinatie met de SGO maken wisbordjes monitoren van voortgang ti
 Practicumontwerp vraagt aandacht voor zowel uit te voeren taken als te bieden begeleiding. De ‘predict, explain, observe explain’ aanpak (zie bijvoorbeeld Frederik & Sonneveld, (2023)) biedt een vorm van ondersteuning waarin leerlingen eerst, onderbouwd, hun eigen verwachtingen formuleren (predict, explain). Vervolgens worden de waarnemingen uitgevoerd (observe), expliciet gemaakt en vergeleken (want niet iedereen ziet altijd hetzelfde). Vooral als de waarnemingen niet met de verwachtingen overeenkomen valt er wat te verklaren (explain) en te leren. Deze aanpak is het meest effectief als leerlingen verwachtingen hebben die niet passen bij de waarnemingen en tevens beschikken over de kennis waarmee ze, met enige moeite, het probleem wel op kunnen lossen. Zelf het probleem oplossen door bestaande kennis toe te passen in een nieuwe situatie leidt tot beter leren dan die oplossing van de docent horen. Zowel in de voorbereiding als in de gezamenlijke bespreking van de resultaten kun je met concept cartoons (Figuur 3) leerlingen uitnodigen hun ideeën vorm te geven en hun gedachten te formuleren.
 
 
-```{figures} Figuren/practicum_figuur3.jpg
+```{figure} Figuren/practicum_figuur3.jpg
 :width: 80%
 
 Een concept cartoon kan leerlingen ondersteunen bij het vormen en formuleren van hun gedachten rond hun metingen: Gaan zij door met meten aan een LED (die pas geleidt en licht geeft bij hogere spanningen)?
