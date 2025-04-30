@@ -62,7 +62,10 @@ site:
     favicon: Figuren/favicon.ico
     logo: Figuren/logo.png
     hide_authors: true
-    headings: true
+    numbering:
+      headings:
+        enabled: true
+
   actions: 
   - title: Feedback
     url: https://github.com/Natuurkunde/DoedeFysica/Issues

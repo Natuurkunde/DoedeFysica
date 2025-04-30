@@ -21,6 +21,6 @@ site:
 
 <div style="text-align: center; font-size: 12px">
 
-Versie 0.0.2
+Versie 0.0.3
 
 </div>
