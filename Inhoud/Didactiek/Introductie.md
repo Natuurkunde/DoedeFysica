@@ -3,7 +3,7 @@
 Dit hoofdstuk is gepubliceerd bij de NVOX als: Practicum, wat hebben we (ervan) geleerd? {cite:p}`RN1237`
 
 ## Abstract
-Dertig jaar geleden verscheen in NVOX een artikel van Jaap Buning en Ed van den Berg {cite:p}`RN1201`: ‘Practicum, leren ze er wat?’ De kernboodschap: practica zouden veel leerzamer zijn als ze efficiënt op leren gericht waren. Dat artikel is nog altijd (terecht) verplichte kost in de meeste lerarenopleidingen. Maar is hun boodschap nog actueel? Door de uitspraken van een leerlinge te analyseren en concrete, simpele en laagdrempelige manieren toe te voegen, bespreken we opnieuw hoe je practica leerzamer kunt maken. Dit artikel biedt een mooi overzicht van alle volgende didactische hoofdstukken over practica. 
+Dertig jaar geleden verscheen in NVOX een artikel van Jaap Buning en Ed van den Berg {cite:p}`RN1201`: ‘Practicum, leren ze er wat?’ De kernboodschap: practica zouden veel leerzamer zijn als ze efficiënt op leren gericht waren. Dat artikel is nog altijd (terecht) verplichte kost in de meeste lerarenopleidingen. Maar is hun boodschap nog actueel? Door de uitspraken van een leerlinge te analyseren en concrete, simpele en laagdrempelige manieren toe te voegen, bespreken we opnieuw hoe je practica leerzamer kunt maken. Dit artikel biedt een mooi overzicht van alle volgende didactische hoofdstukken over practica. In dit hoofdstukken gaan we onder andere dieper in op doelen, werkbladen, didactische technieken.
 
 ## Inleiding
 Ze zei: *Je leert meestal niet zoveel van practicum omdat de doelen niet duidelijk zijn, en omdat je voortdurend bezig bent met apparatuur te snappen, waardoor je verder nergens aan toe komt. Vaak zijn er van die werkbladen bij die moeten worden ingevuld, daarbij schrijven leerlingen massaal van elkaar over, of ze schrijven niks op, of ze schrijven op wat er gebeurt, maar snappen niet waarom het gebeurt. Bijvoorbeeld: 'de kleur verandert van geel naar blauw'. Het kan er ook aan liggen dat de vragen op zo'n blad niet goed zijn. Je zou moeten vragen waarom iets gebeurt, maar dat is dan meestal weer te moeilijk.*
@@ -37,7 +37,7 @@ Werkbladen zijn een onmisbaar hulpmiddel om leerlingen (min of meer) zelfstandig
 :width: 80%
 :name: fig_prac_did_1
 
-Een ingevulde SGO voor een natuurkunde practicum waarin leerlingen zelf moeten nadenken over de procedure. Let op het verschil tussen h en H.
+Een ingevulde SGO voor een natuurkunde practicum waarin leerlingen zelf moeten nadenken over de procedure. Let op het verschil tussen $h$ en $H$.
 ```
 
 ```{admonition} Werkbladen
@@ -46,7 +46,7 @@ Werkbladen beschrijven vaak een kookboekpracticum waarin bijvoorbeeld de (bekend
 
 ## Onderzoeksvaardigheden
 *Ze schrijven op wat er gebeurt maar snappen niet waarom het gebeurt. Bijvoorbeeld: 'de kleur verandert van geel naar blauw.*  
-De uitspraak bevat een typische leerlingconclusie: leerlingen herhalen ‘slechts’ de resultaten zonder te zoeken naar een hoger abstractieniveau (zie o.a. Pols, Dekkers & de Vries (2021). Niet heel vreemd, vaak weten ze nog niet dat ze de meest verstrekkende, informatieve conclusie moeten trekken die mogelijk is op basis van de verzamelde data. In onderzoekspractica zal het wetenschappelijk doel van onderzoeken centraal moeten staan, naast het ontwikkelen van kennis en kunde om een betrouwbaar en valide onderzoek op te zetten en uit te voeren. Het  is van belang dat leerlingen leren door  zelfdoen: eigen keuzes maken, deze evalueren en te verbeteren. Die te ontwikkelen vaardigheden zijn door van den Berg en Buning samengevat en later verder uitgewerkt in bijvoorbeeld Pols, Dekkers & de Vries (2022), zie NVON-site bij dit artikel.
+De uitspraak bevat een typische leerlingconclusie: leerlingen herhalen ‘slechts’ de resultaten zonder te zoeken naar een hoger abstractieniveau (zie o.a. {cite:t}`RN893`). Niet heel vreemd, vaak weten ze nog niet dat ze de meest verstrekkende, informatieve conclusie moeten trekken die mogelijk is op basis van de verzamelde data. In onderzoekspractica zal het wetenschappelijk doel van onderzoeken centraal moeten staan, naast het ontwikkelen van kennis en kunde om een betrouwbaar en valide onderzoek op te zetten en uit te voeren. Het  is van belang dat leerlingen leren door zelf doen: eigen keuzes maken, deze evalueren en te verbeteren. Die te ontwikkelen vaardigheden zijn door van den Berg en Buning samengevat en later verder uitgewerkt in bijvoorbeeld {cite:t}`RN799` (zie ook [toetsing](./Toetsing.md)).
 
 
 ```{figure} Figuren/practicum_figuur2.jpg
@@ -56,7 +56,8 @@ De uitspraak bevat een typische leerlingconclusie: leerlingen herhalen ‘slecht
 De in 1994 gebruikte cartoon is nog steeds relevant: Leerlingen zijn wel eens bereid resultaten te veranderen zodat deze passen bij hun verwachtingen
 ```
 
-Pols, Dekkers & de Vries (2023) laten zien dat leerlingen met een beter begrip van het (wetenschappelijk) doel van experimenten gerichter aan de slag gaan tijdens dat practicum. Dat begrip, en een stevige basis in de onderzoeksvaardigheden, lijkt een randvoorwaarde voor effectieve(re) practica. Maar leerlingen leren onderzoeken, ze zelf laten nadenken, keuzes maken, en nagaan of dat al dan niet goede keuzes waren, kost onvermijdelijk (veel) tijd in de les. Die investeringen betalen zich echter wel terug wanneer de leeropbrengst van practica vergroot wordt.
+{cite:t}`RN1199` laten zien dat leerlingen met een beter begrip van het (wetenschappelijk) doel van experimenten gerichter aan de slag gaan tijdens dat practicum. Dat begrip, en een stevige basis in de onderzoeksvaardigheden, lijkt een randvoorwaarde voor effectieve(re) practica. Maar leerlingen leren onderzoeken, ze zelf laten nadenken, keuzes maken, en nagaan of dat al dan niet goede keuzes waren, kost onvermijdelijk (veel) tijd in de les. Die investeringen betalen zich echter wel terug wanneer de leeropbrengst van practica vergroot wordt.
+
 In onderzoekspractica mag ‘begrijpen wat er gebeurt’ geen probleem zijn, het gaat dan om te leren onderzoeken ‘hoe, precies?’ Maar in een begripspracticum kan ‘begrijpen wat er gebeurt’ aanvankelijk wel een probleem zijn, en het doel is dan om dat wat er gebeurt te begrijpen. De te ontwikkelen nieuwe begrippen en/of verbanden geven daar dan uitdrukking aan. Daarbij moeten de onderzoeksmethoden en dataverwerking dus niet in de weg zitten, die moeten zo helder en eenduidig mogelijk zijn.
 
 ##	Verslaglegging
@@ -71,7 +72,7 @@ Al dan niet in combinatie met de SGO maken wisbordjes monitoren van voortgang ti
 
 ##	Begeleiding
 *Het kan er ook aan liggen dat de vragen op zo'n blad niet goed zijn.*  
-Practicumontwerp vraagt aandacht voor zowel uit te voeren taken als te bieden begeleiding. De ‘predict, explain, observe explain’ aanpak (zie bijvoorbeeld Frederik & Sonneveld, (2023)) biedt een vorm van ondersteuning waarin leerlingen eerst, onderbouwd, hun eigen verwachtingen formuleren (predict, explain). Vervolgens worden de waarnemingen uitgevoerd (observe), expliciet gemaakt en vergeleken (want niet iedereen ziet altijd hetzelfde). Vooral als de waarnemingen niet met de verwachtingen overeenkomen valt er wat te verklaren (explain) en te leren. Deze aanpak is het meest effectief als leerlingen verwachtingen hebben die niet passen bij de waarnemingen en tevens beschikken over de kennis waarmee ze, met enige moeite, het probleem wel op kunnen lossen. Zelf het probleem oplossen door bestaande kennis toe te passen in een nieuwe situatie leidt tot beter leren dan die oplossing van de docent horen. Zowel in de voorbereiding als in de gezamenlijke bespreking van de resultaten kun je met concept cartoons (Figuur 3) leerlingen uitnodigen hun ideeën vorm te geven en hun gedachten te formuleren.
+Practicumontwerp vraagt aandacht voor zowel uit te voeren taken als te bieden begeleiding. De ‘predict, explain, observe explain’ aanpak (zie bijvoorbeeld {cite:t}`RN1218`) biedt een vorm van ondersteuning waarin leerlingen eerst, onderbouwd, hun eigen verwachtingen formuleren (predict, explain). Vervolgens worden de waarnemingen uitgevoerd (observe), expliciet gemaakt en vergeleken (want niet iedereen ziet altijd hetzelfde). Vooral als de waarnemingen niet met de verwachtingen overeenkomen valt er wat te verklaren (explain) en te leren. Deze aanpak is het meest effectief als leerlingen verwachtingen hebben die niet passen bij de waarnemingen en tevens beschikken over de kennis waarmee ze, met enige moeite, het probleem wel op kunnen lossen. Zelf het probleem oplossen door bestaande kennis toe te passen in een nieuwe situatie leidt tot beter leren dan die oplossing van de docent horen. Zowel in de voorbereiding als in de gezamenlijke bespreking van de resultaten kun je met concept cartoons ({numref}`fig_prac_did_3`) leerlingen uitnodigen hun ideeën vorm te geven en hun gedachten te formuleren.
 
 
 ```{figure} Figuren/practicum_figuur3.jpg
@@ -87,30 +88,14 @@ Als docent kun je verder de leerlingen ondersteunen door actief vragen te stelle
 *Je zou moeten vragen waarom iets gebeurt, maar dat is dan meestal weer te moeilijk.*  
 Nog te vaak moeten leerlingen met onbekende apparatuur, data (vol ruis) verzamelen, daar betekenis aan geven, verbinden met (bekend veronderstelde) theorie uit het boek, en tegelijkertijd samenwerken met een niet zelfgekozen partner… Het practicum bevat daarmee (te) veel hindernissen om effectief te leren. Opnieuw is de boodschap: om practica leerza(a)m(er) te maken, kies een helder onderwijsdoel en richt het doen en denken van de leerlingen op het bereiken daarvan. De bovenstaande tekst biedt volop mogelijkheden om practica te (her)ontwerpen op basis van de richtlijnen reeds in 1994 gegeven.
 
-Abrahams, I., & Millar, R. (2008). Does practical work really work? A study of the effectiveness of practical work as a teaching and learning method in school science. International Journal of Science Education, 30(14), 1945-1969. https://doi.org/10.1080/09500690701749305 
 
-Banchi, H., & Bell, R. (2008). The many levels of inquiry. Science and children, 46(2), 26. https://www.michiganseagrant.org/lessons/wp-content/uploads/sites/3/2019/04/The-Many-Levels-of-Inquiry-NSTA-article.pdf 
-
-Pols, C. F. J. (2019). De Scientific Graphic Organizer. NVOX, 44(8), 410-411. 
 
 Van den Berg, E., & Westbroek, H. B. (2014). Formatieve toetsing en feedback in de klas. NVOX, 39 (5), 225-227.
 
 Schalk, H., van den Berg, E. (2019). Snelle feedback. Leerwinst voor leerlingen én leraren. NVOX, 44 (3), 156-157
 
-Pols, C. F. J., Dekkers, P. J. J. M., & de Vries, M. J. (2021). What do they know? Investigating students’ ability to analyse experimental data in secondary physics education. International Journal of Science Education, 43(2), 1-24. https://doi.org/10.1080/09500693.2020.1865588
- 
-Van den Berg, E., & Buning, J. (1994). Practicum: leren ze er wat. NVOX, 19(6), 245-249.
- 
 Tamir, P., & Lunetta, V. N. (1981). Inquiry-Related Tasks in High School Science Laboratory Handbooks. Science Education, 65(5), 477-484.
 
-Pols, C.F.J., Dekkers, , P. J. J. M., & de Vries, M. J. (2023). Defining and assessing understandings of evidence with the assessment rubric for physics inquiry: Towards integration of argumentation and inquiry. Physical Review Physics Education Research, 18(1), 010111.
-
-Pols, C. F. J., Dekkers, P. J. J. M., & de Vries, M. J. (2023). Integrating argumentation in physics inquiry: A design and evaluation study. Physical Review Physics Education Research, 19(2), 020170.
-	
-Pols, C. F. J. (2020). Practicum, net even anders. NVOX, 45(8), 438-439. 
-
 Van den Berg, E. & Sloot, O. (2022). Modeling Instruction. NVOX. 47(8)
-
-Frederik, I. & Sonneveld, W. et al (2023). ShowdeFysica: Natuurkunde laat je zien.
 
 Van den Berg, E. (2012). Natuurwetenschap en techniek. NVOX, 37(4)
