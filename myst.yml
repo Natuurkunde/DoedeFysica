@@ -34,8 +34,16 @@ project:
       children:
         - file: Inhoud/Didactiek/Introductie.md
         - file: Inhoud/Didactiek/Doelen.md
+        - file: Inhoud/Didactiek/Toetsing.md
         #- file: Inhoud/Didactiek/Werkbladen.md
         - file: Inhoud/Didactiek/CDC.md
+
+    - title: Technieken
+      children:
+        - file: Inhoud/Technieken/Software.md
+        - file: Inhoud/Technieken/Technieken.md
+        - file: Inhoud/Technieken/Technologie.md
+        - file: Inhoud/Technieken/Wiskunde.md
 
     - title: Experimenten
       children:
