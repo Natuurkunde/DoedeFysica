@@ -14,6 +14,9 @@ project:
       template: plain_latex_book # myst templates list --tex
       output: exports/DoedeFysica.pdf  
       id: DoedeFysica
+  numbering:
+    headings:
+      enabled: true
 
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
@@ -62,9 +65,7 @@ site:
     favicon: Figuren/favicon.ico
     logo: Figuren/logo.png
     hide_authors: true
-    numbering:
-      headings:
-        enabled: true
+
 
   actions: 
   - title: Feedback
