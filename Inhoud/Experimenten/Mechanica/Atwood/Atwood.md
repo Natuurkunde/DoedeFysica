@@ -1,9 +1,4 @@
 ---
-numbering:
-  headings:
-    title: true
-    enabled: true 
-    
 downloads:
     - file: Atwood SGO.docx
     - title: SGO
