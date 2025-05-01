@@ -86,9 +86,12 @@ Als docent kun je verder de leerlingen ondersteunen door actief vragen te stelle
 - ‘wat doe je?’, 
 - ‘waarom op die manier?’, 
 - ‘kan dat ook anders?’  
+
 gericht op leren onderzoeken, en  
+
 - ‘wat zie je?’, ‘wat betekent dat?’, 
 - ‘wat leer je daarvan?’  
+
 gericht op begripsontwikkeling. Deze vragen laten leerlingen, in essentie, heen-en-weer-denken tussen de wereld van denkbeelden en ideeën (de wereld van de (bekende) natuurwetenschappelijke wetten en theorieën) en de wereld van dingen en observaties (van den Berg, 2012). 
 
 ##	Conclusie
