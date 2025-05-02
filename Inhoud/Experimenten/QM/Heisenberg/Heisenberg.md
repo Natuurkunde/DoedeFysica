@@ -75,9 +75,9 @@ $\lambda = 635$ nm
 
 ### Conclusie
 
-## Didactiek
+```{tip} Didactiek
 
 schuifmaat maken van verschillende breedte slits
 met laser (650nm) er op schijnen.
 meet breedte $S$ van de spot op afstand D.
-
+```
