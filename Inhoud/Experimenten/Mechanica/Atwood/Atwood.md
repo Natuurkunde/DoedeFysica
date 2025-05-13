@@ -77,10 +77,6 @@ $$
 
 :::
 
-:::{tab-item} versnellingsmeter
-De versnelling $a$ wordt direct bepaald uit de gemiddelde versnelling gegeven door de sensor.
-:::
-
 :::{tab-item} launcher
 Het karretje zit vast aan een elektromagneet. Bij het indrukken van de knop zal de elektromagneet uit gaan en start de tijdsmeting. Bij een tweede meetpunt zal de tijdswaarneming stoppen en de bewogen tijd $\Delta t$ wordt weergegeven. Uitgaande van een eenparig versnelde beweging geldt: $a=\sqrt{\frac{2s}{t}}$.
 :::
@@ -90,8 +86,7 @@ Het karretje zit vast aan een elektromagneet. Bij het indrukken van de knop zal 
 * Luchtkussenbaan
 * Karretje 
 * Verschillende massa's
-* Lichtsluis / stopwatch / pocket voyager[^fn1] 
-* Launcher*
+* Lichtsluis (& launcher) / stopwatch [^fn1] 
 
 ### Uitvoering
 
@@ -102,11 +97,7 @@ Zet de speedgate op een vaste, relatief grote afstand. Bepaal bij verschillende 
 :::
 
 :::{tab-item} stopwatch
-Hier met de stopwatch
-:::
-
-:::{tab-item} pocket voyager
-en de pocket
+Bepaal de benodigde tijd ΔtΔt om verschillende afstanden ss af te leggen. Hoeveel verschillende metingen en hoeveel herhaalde metingen heb je nodig om te komen tot een nauwkeurige bepaling van de versnelling?
 :::
 
 :::{tab-item} launcher
@@ -141,8 +132,6 @@ $m_2$ gewogen is .1993176±0.00005 kg.
 :::
 :::{tab-item} stopwatch
 Hier met de stopwatch
-:::
-:::{tab-item} pocket voyager
 :::
 :::{tab-item} launcher
 :::
