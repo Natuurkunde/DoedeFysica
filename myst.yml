@@ -26,12 +26,10 @@ project:
 
     - title: Algemeen
       children:
-        - file: Inhoud/Algemeen/Doedefysica.md
         - file: Inhoud/Algemeen/Voorwoord.md
+        - file: Inhoud/Algemeen/Doedefysica.md        
         - file: Inhoud/Algemeen/Auteurs.md        
-        - file: Inhoud/Algemeen/Doel.md
-        - file: Inhoud/Algemeen/Licentie.md
-        - file: Inhoud/Algemeen/Gebruik.md
+
         
     - title: Didactiek
       children:

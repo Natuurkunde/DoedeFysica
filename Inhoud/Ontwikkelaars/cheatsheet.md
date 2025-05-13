@@ -2,7 +2,7 @@
 
 Markdown is een eenvoudige opmaaktaal: platte tekst die *opgemaakt* wordt met kleine stukjes 'code'. Die tekst is vervolgens snel te exporteren naar allerlei andere formats zoals pdf, word, html etc.
 
-```{figure} ../Figuren/MyST.PNG
+```{figure} Figuren/MyST.PNG
 :width:80%
 
 Een Jupyter Book gemaakt met MyST vraagt een collectie van markdown en jupyter notebooks die vervolgens geëxporteerd kunnen worden naar pdf, html maar ook word.
@@ -254,7 +254,8 @@ Of via ...
 
 ```{list-table} Overzicht van sancties bij bepaald gedrag
 :header-rows: 1
-:name:tl_ sancties
+:label: tl_ sancties
+
 * - Gedrag
     - Sanctie bij 1e keer
     - Sanctie bij 2e keer
@@ -270,7 +271,8 @@ Of via ...
 ````markdown
 ```{list-table} Overzicht van sancties bij bepaald gedrag
 :header-rows: 1
-:name: tl_sancties
+:label: tl_sancties
+
 * - Gedrag
     - Sanctie bij 1e keer
     - Sanctie bij 2e keer
@@ -283,7 +285,7 @@ Of via ...
 :::
 ::::
 
-Methode 2 heeft als voordeel de mogelijkheid tot refereren naar {numref}`Tabel {number} <tl_sancties>`
+Methode 2 heeft als voordeel de mogelijkheid tot refereren naar {numref}`Tabel <tl_sancties>`
 
 
 ## YouTube

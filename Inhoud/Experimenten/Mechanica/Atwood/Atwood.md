@@ -14,11 +14,20 @@ Dit is een voorbeeld experiment zoals opgenomen zal worden in het boek Doe*de*Fy
 ## Experiment
 Het toestel van Atwood is een klassiek experiment waarmee leerlingen op eenvoudige wijze de wetten van Newton kunnen onderzoeken. Door twee gewichten via een katrol met elkaar te verbinden, wordt inzichtelijk hoe krachten en versnellingen samenwerken. 
 
-Het *leerdoel* is dus een beter begrip van de tweede wet van Newton. Het *practicumdoel* is het zo precies mogelijk bepalen van de massa van het wagentje.
+## Didactiek
+Er zijn verschillende varianten van deze proef mogelijk, elk met een eigen leerdoel en practicumdoel. De varianten zijn hieronder uitgewerkt. 
 
-### Methode
+### Optie 1: CDC aanpak
+Elke groepje bepaalt nauwkeurig de versnelling bij een enkele massa ($m_2$). De metingen worden gecombineerd door de docent: $a(m_2)$. Gezamenlijk wordt het resultaat besproken, de voorspelde grafiek is op het bord weergegeven m.b.v. [geogebra](https://geogebra.org). De metingen worden door de leerlingen toegevoegd.
 
-#### Ontwerp
+### Optie 2: PO
+Elk groepje bepaalt op basis van een éénpuntsmeting (welke afstand kun je het beste gebruiken en waarom?) de versnelling. Ze variëren zelf de massa van $m_2$. Welke massa's gebruik je en waarom?
+
+### Optie 3: ...
+
+## Methode
+
+### Ontwerp
 In dit experiment, zie {numref}`fig_Atwood_setup` wordt een karretje met onbekende massa $m_1$ versneld doordat er een zwaartekracht werkt op een massa ($m_2$). De versnelling aan het systeem wordt gegeven door:
 
 $$
@@ -52,6 +61,7 @@ a &= \frac{\Delta v}{\Delta t}
 \end{aligned}
 $$
 :::
+
 :::{tab-item} stopwatch
 De tijd $t$ die nodig is voor het karretje om een afstand $s$ af te leggen startend vanuit stilstand wordt gegeven door: 
 
@@ -66,36 +76,49 @@ a = \frac{2 \cdot s}{t^2}
 $$
 
 :::
+
 :::{tab-item} versnellingsmeter
 De versnelling $a$ wordt direct bepaald uit de gemiddelde versnelling gegeven door de sensor.
+:::
+
+:::{tab-item} launcher
+Het karretje zit vast aan een elektromagneet. Bij het indrukken van de knop zal de elektromagneet uit gaan en start de tijdsmeting. Bij een tweede meetpunt zal de tijdswaarneming stoppen en de bewogen tijd $\Delta t$ wordt weergegeven. Uitgaande van een eenparig versnelde beweging geldt: $a=\sqrt{\frac{2s}{t}}$.
+:::
 ::::
 
-#### Benodigdheden
+### Benodigdheden
 * Luchtkussenbaan
 * Karretje 
 * Verschillende massa's
 * Lichtsluis / stopwatch / pocket voyager[^fn1] 
 * Launcher*
 
-#### Uitvoering
+### Uitvoering
 
 ::::{tab-set}
 
 :::{tab-item} speedgate
-
+Zet de speedgate op een vaste, relatief grote afstand. Bepaal bij verschillende massa's de snelheid met behulp van de speedgate. Bereken op basis van deze snelheid de versnelling. Maak de grafiek waarbij je de versnelling uitzet als functie van de massa aan het koord. 
 :::
 
 :::{tab-item} stopwatch
 Hier met de stopwatch
 :::
+
 :::{tab-item} pocket voyager
 en de pocket
+:::
+
+:::{tab-item} launcher
+Bepaal de benodigde tijd $\Delta t$ om verschillende afstanden $s$ af te leggen. Hoeveel verschillende metingen en hoeveel herhaalde metingen heb je nodig om te komen tot een nauwkeurige bepaling van de versnelling?
+:::
+
 ::::
 
 
 
 
-### Resultaten
+## Resultaten
 ::::{tab-set}
 :::{tab-item} speedgate
 | $m_2$ (g)| $v_e$ (m/s) | $a$ (m/s$^2$) |
@@ -120,17 +143,13 @@ $m_2$ gewogen is .1993176±0.00005 kg.
 Hier met de stopwatch
 :::
 :::{tab-item} pocket voyager
-
+:::
+:::{tab-item} launcher
+:::
 ::::
 
-### Conclusie
+## Conclusie
 
-## Didactiek
-### Optie 1: CDC aanpak
-Elke groepje bepaalt nauwkeurig de versnelling bij een enkele massa ($m_2$). De metingen worden gecombineerd door de docent: $a(m_2)$. Gezamenlijk wordt het resultaat besproken, de voorspelde grafiek is op het bord weergegeven m.b.v. [geogebra](https://geogebra.org). De metingen worden door de leerlingen toegevoegd.
-
-### Optie 2: PO
-Elk groepje bepaalt op basis van een éénpuntsmeting (welke afstand kun je het beste gebruiken en waarom?) de versnelling. Ze variëren zelf de massa van $m_2$. Welke massa's gebruik je en waarom?
 
 [^fn1]: Verschillende mogelijkheden om de versnelling te bepalen
 

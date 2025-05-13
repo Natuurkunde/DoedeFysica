@@ -4,16 +4,18 @@ Een template voor het maken van experimenten zodat ze voldoen aan hetzelfde form
 
 ## Experiment
 
-### Methode
-
-#### Ontwerp
-
-#### Benodigdheden
-
-#### Uitvoering
-
-### Resultaten
-
-### Conclusie
-
 ## Didactiek
+
+## Methode
+
+### Ontwerp
+
+### Benodigdheden
+
+### Uitvoering
+
+## Resultaten
+
+## Conclusie
+
+
