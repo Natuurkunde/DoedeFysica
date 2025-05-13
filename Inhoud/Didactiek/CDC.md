@@ -19,7 +19,7 @@ Een interessant practicum wat gebruik maakt van CDC is geschreven door {cite:t}`
 
 Tijdens het practicum zien alle leerlingen het verband tussen de afgelegde weg en de tijd, iets wat ze in de theorie al hebben gezien. Het maken van de grafiek ({numref}`fig_hh` links), eventueel met [coordinaattransformatie](../Technieken/Wiskunde.md) en het berekenen van de versnelling, helpt hen bij het verder ontwikkelen van het concept van eenparig versnelde beweging. In een van de lessen daarna kun je als docent de leerlingen vragen de grafieken naast elkaar te leggen en de overeenkomsten verschillen te bespreken. 
 
-De docent laat nu de bepaalde versnelling als functie van de hellingshoek zien, zie grafiek {numref}`fig_hh` midden. Op het eerste gezicht lijken de metingen op een rechte lijn liggen. Maar we weten een punt dat we niet hebben gemeten: bij een hoek van 90$^o$ is de versnelling 9.81 m/s$^2$. Als we daar naar kijken, dan zien we dat we de sinus van de hellingshoek moeten gebruiken om de juiste versnelling te krijgen ({numref}`fig_hh` rechts). Er geldt dus: $a=gsin(\theta)$
+De docent laat nu de bepaalde versnelling als functie van de hellingshoek zien, zie grafiek {numref}`fig_hh` midden. Op het eerste gezicht lijken de metingen op een rechte lijn liggen. Maar we weten een punt dat we niet hebben gemeten: bij een hoek van 90$^o$ is de versnelling 9.81 m/s$^2$. Als we daar naar kijken, dan zien we dat we de sinus van de hellingshoek moeten gebruiken om de juiste versnelling te krijgen ({numref}`%s rechts <fig_hh>`). Er geldt dus: $a=gsin(\theta)$
 
 ```{figure} Figuren/combined_plot.png
 :label: fig_hh
