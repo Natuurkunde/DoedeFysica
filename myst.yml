@@ -57,7 +57,7 @@ project:
             - file: Inhoud/Experimenten/QM/Heisenberg/Heisenberg.md
         - title: Elektriciteit
           children:
-            - file: Inhoud/Experimenten/Elektriciteit/Serie/Serie.md
+            - file: Inhoud/Experimenten/Elektriciteit/Serie/Serie.ipynb
             
     
     # - title: Technisch Ontwerpen
