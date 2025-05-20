@@ -52,7 +52,7 @@ project:
         - title: Mechanica
           children:
             - file: Inhoud/Experimenten/Mechanica/Atwood/Atwood.md
-        - title: QM
+        - title: Quantummechanica
           children:
             - file: Inhoud/Experimenten/QM/Heisenberg/Heisenberg.md
         - title: Elektriciteit
