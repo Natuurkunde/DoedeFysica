@@ -8,7 +8,7 @@ Bouw het volgende circuit bestaande uit een regelbare spanningsbron en een lampj
 ```
 
 | Spanning (V) | Waarneming| 
-|---|---|---|
+|---|---|
 | 0,0 | Het lampje geeft geen licht. |
 | 1,0 | |
 | 2,0 | |
@@ -34,6 +34,7 @@ Bouw het volgende circuit bestaande uit een regelbare spanningsbron, twee stroom
 | 3,0 | | |
 | 4,0 | | |
 | 5,0 | | |
+| 6,0 | | |
 
 Ik heb in dit experiment geleerd dat ……
 
@@ -44,14 +45,15 @@ Bouw het volgende circuit bestaande uit een regelbare spanningsbron, een stroomm
 
 ```
 
-| Spanning (V) |Stroomsterkte$_1$ (A)| Stroomsterkte$_2$ (A)|
-|---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| Spanning (V) |Stroomsterkte (A)| 
+|---|---|
+| 0,0 | |
+| 1,0 | |
+| 2,0 | |
+| 3,0 | |
+| 4,0 | |
+| 5,0 | |
+| 6,0 | |
 
 Ik heb in dit experiment geleerd dat ……
 
@@ -66,14 +68,15 @@ Zet de metingen van dit experiment, en van experiment 2, in de grafiek van exper
 
 ```
 
-| Bronspanning (V) |Stroomsterkte$_1$ (A)| Stroomsterkte$_2$ (A)|
-|---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| Bronspanning (V) |Spanning$_1$ (V)| Spanning$_2$ (A)| Stroomsterkte (A) |
+|---|---|---|---|
+| 0,0 | | | |
+| 1,0 | | | |
+| 2,0 | | | |
+| 3,0 | | | |
+| 4,0 | | | |
+| 5,0 | | | |
+| 6,0 | | | |
 
 
 Ik heb in dit experiment geleerd dat ……
@@ -88,14 +91,14 @@ Controleer dat:
 
 ```
 
-| Spanning (V) |Stroomsterkte$_1$ (A)| Stroomsterkte$_2$ (A)|
-|---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-
+| Bronspanning (V) | Stroomsterkte$_{\text{bron}}$ (V)| Stroomsterkte$_1$ (A)| Stroomsterkte$_2$ (A) |
+|---|---|---|---|
+| 0,0 | | | |
+| 1,0 | | | |
+| 2,0 | | | |
+| 3,0 | | | |
+| 4,0 | | | |
+| 5,0 | | | |
+| 6,0 | | | |
 
 Ik heb in dit experiment geleerd dat ……
