@@ -55,6 +55,10 @@ project:
         - title: QM
           children:
             - file: Inhoud/Experimenten/QM/Heisenberg/Heisenberg.md
+        - title: Elektriciteit
+          children:
+            - file: Inhoud/Experimenten/Elektriciteit/Serie/Serie.md
+            
     
     # - title: Technisch Ontwerpen
     #   children:
