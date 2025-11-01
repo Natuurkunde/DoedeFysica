@@ -1,11 +1,12 @@
 ---
 downloads:
     - file: Atwood SGO.docx
-    - title: SGO
+      title: SGO
     - file: Atwood NB.ipynb
-    - title: Notebook
+      title: Notebook
     - file: Atwood WB.docx
-    - title: Werkblad
+      title: Werkblad
+      
 ---
 
 # Atwood en Newton de tweede

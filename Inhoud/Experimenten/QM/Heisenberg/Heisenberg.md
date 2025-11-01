@@ -11,7 +11,7 @@ https://quarknet.org/sites/default/files/content/portfolio/file/2025-02/Heisenbe
 Afhankelijk van de 
 
 ### Optie 1: Voldoen aan de Heisenberg relatie?
-Optie 1 onderzoekt of de metingen voldoen aan de Heisenberg relatie: $\Delta p \Delta x \geq \frac{\hbar}{2}$
+Optie 1 onderzoekt of de metingen voldoen aan de Heisenberg relatie: $\Delta p \Delta x \geq \frac{h bar}{2}$
 
 ### Optie 2: Bepaling van de golflengte
 De tweede optie is de bepaling van de golflengte van de laser op basis van de Heisenberg relatie.
