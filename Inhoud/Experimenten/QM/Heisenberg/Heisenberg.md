@@ -40,27 +40,14 @@ meet breedte $S$ van de spot op afstand D.
 * Schuifmaat (2x) of micrometer en schuifmaat
 * Statiefmateriaal
 
-````{figure}
-:name: fig_qm_both
-
 ```{figure} Heisenberg1.jpg
-:width: 70%
-:name: fig_QM_setup
-:alt: De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
-
 De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
 ```
 
 ```{figure} Heisenberg2.jpg
-:width: 70%
-:name: fig_QM_intpat
-:alt: Een close up van het interferentiepatroon met verlichte en donkere stukken.
-
 Een close up van het interferentiepatroon met verlichte en donkere stukken.
 ```
 
-De opstelling en een close up van het interferentiepatroon
-````
 
 #### Uitvoering
 Verschillende slitbreedtes ($\Delta x$) ,
