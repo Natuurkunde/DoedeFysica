@@ -43,7 +43,7 @@ meet breedte $S$ van de spot op afstand D.
 ````{figure}
 :name: fig_qm_both
 
-```{figure} Heisenberg 1.jpg
+```{figure} Heisenberg1.jpg
 :width: 70%
 :name: fig_QM_setup
 :alt: De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
@@ -51,7 +51,7 @@ meet breedte $S$ van de spot op afstand D.
 De opstelling: Een eenvoudige laser, een schuifmaat en een scherm. Het interferentiepatroon is op het scherm te zien.
 ```
 
-```{figure} Heisenberg 2.jpg
+```{figure} Heisenberg2.jpg
 :width: 70%
 :name: fig_QM_intpat
 :alt: Een close up van het interferentiepatroon met verlichte en donkere stukken.
