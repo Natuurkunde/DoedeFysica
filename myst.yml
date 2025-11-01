@@ -13,7 +13,7 @@ project:
   exports:
     - format: pdf
       template: https://github.com/myst-templates/plain_typst_book.git
-      output: exports/DoedeFysica.pdf  
+      output: exports/book.pdf  
       id: DoedeFysica
   
   jupyter: true
@@ -88,5 +88,7 @@ site:
   actions: 
   - title: Feedback
     url: https://github.com/Natuurkunde/DoedeFysica/Issues
-  - title: EN
-    url: https://freekpols.github.io/ShowthePhysics/intro.html #https://github.com/Natuurkunde/DoingPhysics
+  # - title: EN
+  #   url: https://freekpols.github.io/ShowthePhysics/intro.html #https://github.com/Natuurkunde/DoingPhysics
+  - title: PDF
+    url: ./exports/book.pdf
