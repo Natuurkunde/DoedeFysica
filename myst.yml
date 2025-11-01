@@ -7,13 +7,15 @@ project:
   keywords: [Natuurkunde, Practicum, Didactiek]
   authors: [Freek Pols]
   github: https://github.com/Natuurkunde/DoedeFysica
+  
   downloads:
     - id: DoedeFysica
   exports:
     - format: pdf
-      template: plain_latex_book # myst templates list --tex
+      template: https://github.com/myst-templates/plain_typst_book.git
       output: exports/DoedeFysica.pdf  
       id: DoedeFysica
+  
   jupyter: true
  
 
