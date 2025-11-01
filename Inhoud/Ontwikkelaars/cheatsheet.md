@@ -254,7 +254,7 @@ Of via ...
 
 ```{list-table} Overzicht van sancties bij bepaald gedrag
 :header-rows: 1
-:label: tl_ sancties
+:label: tl-sancties
 
 * - Gedrag
     - Sanctie bij 1e keer
@@ -271,7 +271,7 @@ Of via ...
 ````markdown
 ```{list-table} Overzicht van sancties bij bepaald gedrag
 :header-rows: 1
-:label: tl_sancties
+:label: tl-sancties
 
 * - Gedrag
     - Sanctie bij 1e keer
@@ -285,7 +285,7 @@ Of via ...
 :::
 ::::
 
-Methode 2 heeft als voordeel de mogelijkheid tot refereren naar {numref}`Tabel <tl_sancties>`
+Methode 2 heeft als voordeel de mogelijkheid tot refereren naar {numref}`Tabel <tl-sancties>`
 
 
 ## YouTube
@@ -323,14 +323,14 @@ De embedded YT filmpjes worden niet opgenomen in de pdf. Een oplossing zou bijv.
 :::{tab-item} list
 * Dit is een [hyperlink](https://nos.nl)  
 * Dit is een verwijzing naar vergelijking {eq}`eq:Newton`  
-* Dit is een verwijzing naar een tabel zoals {numref}`Tabel {number} <tl_sancties>`  
+* Dit is een verwijzing naar een tabel zoals {numref}`Tabel {number} <tl-sancties>`  
 * Dit is een verwijzing naar een figuur zoals {numref}`Figuur {number} <fig_sunset>`  
 :::
 :::{tab-item} syntax
 ```markdown
 * Dit is een [hyperlink](https://nos.nl)  
 * Dit is een verwijzing naar vergelijking {eq}`eq:Newton`  
-* Dit is een verwijzing naar een tabel zoals {numref}`Tabel {number} <tl_sancties>`  
+* Dit is een verwijzing naar een tabel zoals {numref}`Tabel {number} <tl-sancties>`  
 * Dit is een verwijzing naar een figuur zoals {numref}`Figuur {number} <fig_sunset>`  
 ```
 :::
