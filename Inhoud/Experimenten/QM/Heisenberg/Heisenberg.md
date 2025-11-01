@@ -41,8 +41,7 @@ meet breedte $S$ van de spot op afstand D.
 * Statiefmateriaal
 
 ````{figure}
-:label: subFigure
-:align: left
+:name: fig_qm_both
 
 ```{figure} Heisenberg 1.jpg
 :width: 70%
